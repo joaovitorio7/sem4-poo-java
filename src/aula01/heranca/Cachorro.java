@@ -10,6 +10,6 @@ public class Cachorro extends Mamifero{
         qtdMamas = 10;
         super.nome = "Cachorrinha";
 
-        System.out.println("Latir");
+        System.out.println("latir");
     }
 }
